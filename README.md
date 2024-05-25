@@ -1,2 +1,3 @@
-# flasky
-copy of apresentation
+# Meu Projeto Flask
+
+Este é um projeto Flask básico.
